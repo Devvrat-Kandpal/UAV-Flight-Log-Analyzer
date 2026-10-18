@@ -104,7 +104,18 @@ UAV-Flight-Log-Analyzer/
 ├── .gitignore
 └── README.md
 ```
+## Data Source and Attribution
 
+This project uses flight telemetry from the following dataset:
+
+- **Dataset:** [Quadplane VTOL — Flight-Test Telemetry, CFD & Structural Data](https://github.com/AdamDony/quadplane-px4-flight-data)
+- **Original author/contact:** Md Nur-A-Adam Dony and collaborators
+- **Source log:** `log_5_2022-9-4-18-02-56.px4log`
+- **Format:** PX4 v1.7.0 legacy `sdlog2`
+
+The telemetry is used for educational analysis and visualization. This project is an independent analyzer and is not affiliated with the dataset authors.
+
+Please consult the original repository for its recommended academic citation and licensing terms.
 ## License
 
 No license has been specified yet.
