@@ -3,5 +3,3 @@
 __pycache__/
 *.py[cod]
 *.px4log
-*.csv
-figures/
